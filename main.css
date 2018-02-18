@@ -1,1 +1,21 @@
+body
+{
+background="#ABE5FD"
+};
 
+p
+{
+	align-content: justify;
+
+};
+
+footer
+{
+	color: #25E495;
+
+};
+
+.pfooter
+{
+	align-content: center;
+};
